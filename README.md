@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meldateksari&label=Profile%20views&color=0e75b6&style=flat" alt="meldateksari" /> </p>
 
 
-- 🔭 I’m currently working on [ToDoProjects](https://github.com/meldateksari/ToDoProject)
 
 - 🌱 I’m currently learning **Laravel and building dynamic web applications.**
 
